@@ -1,7 +1,7 @@
 # taskinator
 Module 4: Web APIs
 
-![Image of Portfolio Home](screenshot.PNG)
+![Image of Taskinator Home](screenshot.PNG)
 
 
 ## Purpose
